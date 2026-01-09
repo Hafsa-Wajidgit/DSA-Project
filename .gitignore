@@ -1,0 +1,78 @@
+# =========================
+# Build directories
+# =========================
+/bin/
+/obj/
+/build/
+/out/
+
+# =========================
+# OS generated files
+# =========================
+# Windows
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Linux
+*~
+
+# =========================
+# MinGW / GCC artifacts
+# =========================
+*.exe
+*.o
+*.obj
+*.dll
+*.lib
+*.a
+*.so
+*.pch
+*.pdb
+
+# =========================
+# IDE/editor files
+# =========================
+# VSCode
+.vscode/
+.history/
+
+# JetBrains / CLion
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# =========================
+# CMake (if ever used)
+# =========================
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+
+# =========================
+# Logs, temporary, and backup files
+# =========================
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# =========================
+# Optional: External libraries
+# =========================
+# Ignore compiled external libs if downloaded/built locally
+/lib/
+/third_party/
+
+# =========================
+# Node/JS (if any scripts are used)
+# =========================
+node_modules/
