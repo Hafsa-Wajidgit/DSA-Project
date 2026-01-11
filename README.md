@@ -38,12 +38,12 @@ The project demonstrates practical usage of **Binary Search Trees, Linked Lists,
 ## Team Members
 **Team Leader:**  
 - Hafsa Wajid
+
 **Report Specialist:**  
 - Maryam Tariq
+
 **Module Contributions:**  
 - **User Management:** Yahya Usman, Omer Zia  
 - **Post Management:** Afnan, Raween Aamir  
 - **Feed & Notifications:** Abdur Rehman, Misbah  
 - **GUI Interface:** Ayesha Naveed, Mahnoor  
-- Edge cases and validations handled  
-- Developed for educational purposes
